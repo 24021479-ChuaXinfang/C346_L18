@@ -7,8 +7,8 @@ let originalData = [];
 // StyleSheet
 const styles = StyleSheet.create({
     container: {
-        flex: 1,                 // 👈 fills the whole screen
-        backgroundColor: '#84befd', // 👈 blue background
+        flex: 1,                 
+        backgroundColor: '#84befd', 
     },
     searchText: {
         textAlign: 'center',
